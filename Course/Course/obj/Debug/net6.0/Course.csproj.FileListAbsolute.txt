@@ -1,0 +1,14 @@
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\bin\Debug\net6.0\Course.exe
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\bin\Debug\net6.0\Course.deps.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\bin\Debug\net6.0\Course.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\bin\Debug\net6.0\Course.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\obj\Debug\net6.0\Course.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\obj\Debug\net6.0\refint\Course.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\obj\Debug\net6.0\Course.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Course\Course\obj\Debug\net6.0\ref\Course.dll
