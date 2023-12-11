@@ -1,0 +1,14 @@
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.exe
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.deps.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.runtimeconfig.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\bin\Debug\net6.0\SaidaDeDados.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.AssemblyInfo.cs
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\refint\SaidaDeDados.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\SaidaDeDados.genruntimeconfig.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\SaidaDeDados\SaidaDeDados\obj\Debug\net6.0\ref\SaidaDeDados.dll
