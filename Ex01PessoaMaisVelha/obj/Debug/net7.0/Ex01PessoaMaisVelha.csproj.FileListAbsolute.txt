@@ -1,0 +1,14 @@
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\bin\Debug\net7.0\Ex01PessoaMaisVelha.exe
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\bin\Debug\net7.0\Ex01PessoaMaisVelha.deps.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\bin\Debug\net7.0\Ex01PessoaMaisVelha.runtimeconfig.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\bin\Debug\net7.0\Ex01PessoaMaisVelha.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\bin\Debug\net7.0\Ex01PessoaMaisVelha.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\obj\Debug\net7.0\Ex01PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\obj\Debug\net7.0\Ex01PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\obj\Debug\net7.0\Ex01PessoaMaisVelha.AssemblyInfo.cs
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\obj\Debug\net7.0\Ex01PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\obj\Debug\net7.0\Ex01PessoaMaisVelha.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\obj\Debug\net7.0\refint\Ex01PessoaMaisVelha.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\obj\Debug\net7.0\Ex01PessoaMaisVelha.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\obj\Debug\net7.0\Ex01PessoaMaisVelha.genruntimeconfig.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Ex01PessoaMaisVelha\obj\Debug\net7.0\ref\Ex01PessoaMaisVelha.dll
