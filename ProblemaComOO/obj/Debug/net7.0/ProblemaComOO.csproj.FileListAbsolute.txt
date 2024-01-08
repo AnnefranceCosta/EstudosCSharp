@@ -1,0 +1,14 @@
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\bin\Debug\net7.0\ProblemaComOO.exe
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\bin\Debug\net7.0\ProblemaComOO.deps.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\bin\Debug\net7.0\ProblemaComOO.runtimeconfig.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\bin\Debug\net7.0\ProblemaComOO.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\bin\Debug\net7.0\ProblemaComOO.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\obj\Debug\net7.0\ProblemaComOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\obj\Debug\net7.0\ProblemaComOO.AssemblyInfoInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\obj\Debug\net7.0\ProblemaComOO.AssemblyInfo.cs
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\obj\Debug\net7.0\ProblemaComOO.csproj.CoreCompileInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\obj\Debug\net7.0\ProblemaComOO.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\obj\Debug\net7.0\refint\ProblemaComOO.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\obj\Debug\net7.0\ProblemaComOO.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\obj\Debug\net7.0\ProblemaComOO.genruntimeconfig.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\ProblemaComOO\obj\Debug\net7.0\ref\ProblemaComOO.dll
