@@ -24,6 +24,12 @@ namespace Produto
 
         }
 
+        public void RemoverProdutos(int amount)
+        {
+            Numbers = Numbers - amount;
+
+        }
+
         public override string ToString()
         {
             return Name
@@ -34,8 +40,6 @@ namespace Produto
                 + " unidades, Total: $ "
                 + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
-
-
 
     }
 }

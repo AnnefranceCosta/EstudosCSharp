@@ -23,11 +23,22 @@ namespace Produto
 
             Console.WriteLine("Dados do produto: " + p);
 
+            Console.WriteLine();
             Console.Write("Digite o número de produtos a ser adicionados ao estoque: ");
             int amt = int.Parse(Console.ReadLine());
             p.AdicionarProdutos(amt);
 
+            Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            amt = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(amt);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+
         }
     }
 }
