@@ -21,6 +21,7 @@ namespace Produto
             Console.Write("Quantidade no estoque: ");
             p.Numbers = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Dados do produto: " + p);
         }
     }
 }

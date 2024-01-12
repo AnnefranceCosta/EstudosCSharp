@@ -13,5 +13,21 @@ namespace Produto
         public double Price;
         public int Numbers;
 
+        public double ValorTotalEmEstoque()
+        {
+            return Price * Numbers;
+        }
+
+        public override string ToString()
+        {
+            return Name
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + ", "
+                + Numbers
+                + " unidades, Total: $ "
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+        }
+
     }
 }
