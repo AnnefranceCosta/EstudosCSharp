@@ -1,0 +1,14 @@
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\bin\Debug\net7.0\Produto.exe
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\bin\Debug\net7.0\Produto.deps.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\bin\Debug\net7.0\Produto.runtimeconfig.json
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\bin\Debug\net7.0\Produto.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\bin\Debug\net7.0\Produto.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\obj\Debug\net7.0\Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\obj\Debug\net7.0\Produto.AssemblyInfoInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\obj\Debug\net7.0\Produto.AssemblyInfo.cs
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\obj\Debug\net7.0\Produto.csproj.CoreCompileInputs.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\obj\Debug\net7.0\Produto.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\obj\Debug\net7.0\refint\Produto.dll
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\obj\Debug\net7.0\Produto.pdb
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\obj\Debug\net7.0\Produto.genruntimeconfig.cache
+C:\Users\Annef\OneDrive\Documentos\GitHub\EstudosCSharp\Produto\obj\Debug\net7.0\ref\Produto.dll
